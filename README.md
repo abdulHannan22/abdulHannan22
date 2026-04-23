@@ -8,9 +8,8 @@
 ## About me
 
 - Building production-grade web apps with **Node.js, React, MongoDB**
-- Solving DSA problems daily — **300+ on LeetCode**, **160+ on GFG**
-- Currently exploring **TypeScript, Docker, and System Design**
-- Looking for **Summer 2026 internship** in product-based companies
+- Solving DSA problems daily — **370+ on LeetCode**, **160+ on GFG**
+- Looking for **Summer 2026 internship** 
 - Reach me: abdulhannandheriwala@gmail.com
 
 ---
