@@ -48,7 +48,7 @@
 
 ## DSA profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_solved-orange?style=flat&logo=leetcode)](https://leetcode.com/u/abd_hannan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-370%2B_solved-orange?style=flat&logo=leetcode)](https://leetcode.com/u/abd_hannan/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-160%2B_solved-green?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/abdulhannanbncs)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1★_Rated-brown?style=flat&logo=codechef)](https://www.codechef.com/users/chef_abdul_123)
 
