@@ -13,14 +13,11 @@
 - Reach me: abdulhannandheriwala@gmail.com
 
 ---
+## ⚡ Tech Stack
 
-## Tech stack
-
-**Languages:** JavaScript · TypeScript · C++ · Java · Python  
-**Frontend:** React.js · Tailwind CSS · Bootstrap · HTML/CSS  
-**Backend:** Node.js · Express.js · REST APIs · JWT · Socket.io  
-**Database:** MongoDB · Mongoose · SQL  
-**Tools:** Git · GitHub · Postman · AWS · Docker · Redis  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,git,cpp,html,css,github,postman,java,python,bootstrap,react.js,tailwind" />
+</p>
 
 ---
 
