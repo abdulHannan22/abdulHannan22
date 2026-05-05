@@ -1,5 +1,8 @@
-# Hi, I'm Abdulhannan Dheriwala 👋
+<h1 align="center">⚡ Hi, I'm Abdulhannan Dheriwala</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=F59E0B&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+%7C+Backend+Focused;DSA-Enthusiast" />
+</p>
 **Full-Stack Developer** · **MERN Stack** · **DSA Enthusiast**  
 3rd-year B.E. Information Technology @ Parul University, Vadodara
 
