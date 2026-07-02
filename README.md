@@ -1,85 +1,240 @@
-<h1 align="center">⚡ Hi, I'm Abdulhannan Dheriwala</h1>
+<h1 align="center">Hi 👋, I'm Abdulhannan Dheriwala</h1>
+
+<h3 align="center">
+Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=0000FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+Stack+%7C+Backend+Focused;DSA-Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+RAG+Application+Builder;Problem+Solver+%7C+900%2B+DSA+Problems;Open+Source+Learner" />
 </p>
-**Full-Stack Developer** · **MERN Stack** · **DSA Enthusiast**  
-3rd-year B.E. Information Technology @ Parul University, Vadodara
-
----
-
-## About me
-
-- Building production-grade web apps with **Node.js, React, MongoDB**
-- Solving DSA problems daily — **450+ on LeetCode**, **170+ on GFG**
-- Looking for **Winter 2027 internship** 
-- Reach me: abdulhannandheriwala@gmail.com
-
----
-## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,git,cpp,html,css,github,postman,java,python,bootstrap,react.js,tailwind" />
+  <img src="https://komarev.com/ghpvc/?username=abdulHannan22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## Featured projects
+# 💫 About Me
 
-### Smart-Stay — Full-stack booking platform
-> Node.js · Express · MongoDB · EJS · Cloudinary · Mapbox
+🎓 B.Tech in Information Technology at **Parul University**
 
-- Property listing platform with user auth (signup/login/logout)
-- Cloud image upload via Cloudinary, interactive map with Mapbox
-- Review and rating system with full CRUD operations
-- **[Live Demo](your-live-link)** · **[GitHub](https://github.com/abdulHannan22/Smart-Stay)**
+🏆 **Department Rank 1 (5th Semester)**
 
----
+💻 Passionate about building scalable full-stack web applications using the MERN Stack.
 
-### Course-Selling Platform API
-> Node.js · Express · MongoDB · JWT · bcrypt · CORS
+🤖 Interested in AI applications, Retrieval-Augmented Generation (RAG), Backend Engineering and System Design.
 
-- Dual-role REST API (admin/user) with JWT authentication
-- 11 endpoints across 3 route modules: auth, courses, purchases
-- 4 interconnected MongoDB collections with relational design
-- **[Postman Collection](your-postman-link)** · **[GitHub](your-github-link)**
+📈 Solved **900+ DSA Problems**
+- LeetCode **500+**
+- GeeksforGeeks **160+**
+- CodeChef **100+**
 
----
+🌱 Currently learning
 
-## DSA profiles
+- System Design
+- Advanced Backend Development
+- AI Engineering
+- Cloud Deployment
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_solved-orange?style=flat&logo=leetcode)](https://leetcode.com/u/abd_hannan/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-160%2B_solved-green?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/abdulhannanbncs)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1★_Rated-brown?style=flat&logo=codechef)](https://www.codechef.com/users/chef_abdul_123)
+📫 Reach me at
+
+**abdulhannandheriwala@gmail.com**
 
 ---
 
-## GitHub stats
+# 🚀 Tech Stack
 
-![Abdulhannan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulHannan22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulHannan22&layout=compact&theme=tokyonight&hide_border=true)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulHannan22&theme=tokyonight&hide_border=true)
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+**Also Experienced In**
+
+- JWT Authentication
+- Passport.js
+- REST APIs
+- MVC Architecture
+- Mongoose ODM
+- SQL
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- LangChain
+- Google Gemini API
+- FAISS
+- RAG Pipelines
+- Streamlit
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,mongodb" />
+</p>
 
 ---
 
-## Activity graph
+# ⭐ Featured Projects
 
-[![Abdulhannan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulHannan22&theme=tokyo-night&hide_border=true)](https://github.com/abdulHannan22)
+## 🚀 HireTrack — Job Application Tracker
+
+**MERN Stack • JWT • Recharts**
+
+✨ Features
+
+- Drag-and-drop Kanban board
+- JWT Authentication
+- Activity Timeline
+- Analytics Dashboard
+- Optimistic UI Updates
+- Audit Logging
+- Responsive UI
+
+🔗 **GitHub:** https://github.com/abdulHannan22/HireTrack
+
+🌐 **Live Demo:** https://hire-track-frontend.vercel.app/
 
 ---
 
-## Profile views
+## 🤖 Multi-PDF Q&A Chatbot
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdulHannan22&color=blue&style=flat)
+**Python • Gemini API • LangChain • FAISS • Streamlit**
+
+### Features
+
+- Upload multiple PDFs
+- Semantic Search
+- FAISS Vector Database
+- RAG Pipeline
+- Hallucination Reduction
+- Source-Grounded Responses
+
+🔗 GitHub:
+(Add Repository Link)
 
 ---
 
-## Connect with me
+## 🏡 Smart-Stay
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulhannan_Dheriwala-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdulhannan-dheriwala-205506274)
-[![LeetCode](https://img.shields.io/badge/LeetCode-abd__hannan-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/abd_hannan/)
-[![Email](https://img.shields.io/badge/Email-abdulhannandheriwala%40gmail.com-D14836?style=flat&logo=gmail)](mailto:abdulhannandheriwala@gmail.com)
+**MERN Stack • Passport.js • Cloudinary • Mapbox**
 
+### Features
 
+- Property Listings
+- Authentication
+- Image Upload
+- Interactive Maps
+- Reviews & Ratings
+- Authorization Middleware
+- Secure CRUD Operations
+
+🔗 GitHub
+
+https://github.com/abdulHannan22/Smart-Stay
+
+---
+
+# 📊 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/abd_hannan/">
+<img src="https://img.shields.io/badge/LeetCode-500+-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/abdulhannanbncs">
+<img src="https://img.shields.io/badge/GeeksforGeeks-160+-green?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.codechef.com/users/chef_abdul_123">
+<img src="https://img.shields.io/badge/CodeChef-100+-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-Active-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulHannan22&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulHannan22&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulHannan22&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📉 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulHannan22&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdulHannan22&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+- Cisco Networking Academy — Networking Basics
+- Anthropic — Claude Code In Action
+- HackerRank — Problem Solving (Basic)
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abdulhannan-dheriwala-205506274">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:abdulhannandheriwala@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/abdulHannan22">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
