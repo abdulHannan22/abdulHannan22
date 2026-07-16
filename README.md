@@ -24,8 +24,8 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 
 🤖 Interested in AI applications, Retrieval-Augmented Generation (RAG), Backend Engineering and System Design.
 
-📈 Solved **900+ DSA Problems**
-- LeetCode **500+**
+📈 Solved **950+ DSA Problems**
+- LeetCode **550+**
 - GeeksforGeeks **160+**
 - CodeChef **100+**
 
@@ -127,7 +127,7 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 - Source-Grounded Responses
 
 🔗 GitHub:
-(Add Repository Link)
+https://github.com/abdulHannan22/MultiPDF_QA
 
 ---
 
