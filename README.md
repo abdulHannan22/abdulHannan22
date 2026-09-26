@@ -236,7 +236,7 @@ https://github.com/abdulHannan22/Smart-Stay
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulHannan22&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulHannan22&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </p>
 
