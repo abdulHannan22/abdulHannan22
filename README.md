@@ -195,7 +195,7 @@ https://github.com/abdulHannan22/Smart-Stay
 <p align="center">
 
 <a href="https://leetcode.com/u/abd_hannan/">
-<img src="https://img.shields.io/badge/LeetCode-500+-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-600+-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/abdulhannanbncs">
