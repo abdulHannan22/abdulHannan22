@@ -5,7 +5,7 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+RAG+Application+Builder;Problem+Solver+%7C+900%2B+DSA+Problems;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+RAG+App+Builder;LocalShop+AI+Builder" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 
 💻 Passionate about building scalable full-stack web applications using the MERN Stack.
 
-🤖 Interested in AI applications, Retrieval-Augmented Generation (RAG), Backend Engineering and System Design.
+🤖 Interested in AI applications, Retrieval-Augmented Generation (RAG), Backend Engineering, AI-powered product experiences, and System Design.
 
 📈 Solved **950+ DSA Problems**
 - LeetCode **550+**
@@ -35,6 +35,7 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 - Advanced Backend Development
 - AI Engineering
 - Cloud Deployment
+- LLM Product Development
 
 📫 Reach me at
 
@@ -47,19 +48,19 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css,sql" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,vite,tailwind,bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,redis" />
 </p>
 
 **Also Experienced In**
@@ -69,29 +70,55 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 - REST APIs
 - MVC Architecture
 - Mongoose ODM
-- SQL
+- PostgreSQL
+- Redis
+- FastAPI
+- Next.js
+- TypeScript
+- AI Product Architecture
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,openai" />
 </p>
 
 - LangChain
+- OpenAI API
 - Google Gemini API
 - FAISS
 - RAG Pipelines
+- LLM-powered Search
 - Streamlit
+- AI Chat Interfaces
+- Vector Databases
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,mongodb" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,mongodb" />
 </p>
 
 ---
 
 # ⭐ Featured Projects
+
+## 🤖 LocalShop AI
+
+**Next.js • FastAPI • TypeScript • PostgreSQL • AI Search**
+
+✨ Features
+
+- AI-powered local shopping assistant
+- Smart product discovery and recommendations
+- Local marketplace search with contextual AI responses
+- RAG-based conversational experience
+- Seller and user-friendly dashboard
+- Scalable backend with modern APIs
+
+🔗 **Project:** LocalShop AI (in progress / portfolio concept)
+
+---
 
 ## 🚀 HireTrack — Job Application Tracker
 
