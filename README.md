@@ -24,8 +24,8 @@ Full Stack Developer • AI Product Builder • MERN Stack • Competitive Progr
 
 🤖 Currently focused on building intelligent, product-driven solutions like **LocalShop AI** — a next-gen local shopping assistant with AI-enhanced discovery and conversation.
 
-📈 Solved **950+ DSA Problems**
-- LeetCode **550+**
+📈 Solved **1000+ DSA Problems**
+- LeetCode **600+**
 - GeeksforGeeks **160+**
 - CodeChef **100+**
 
