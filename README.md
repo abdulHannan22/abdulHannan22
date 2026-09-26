@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdulhannan Dheriwala</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
+Full Stack Developer • AI Product Builder • MERN Stack • Competitive Programmer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+RAG+App+Builder;LocalShop+AI+Builder" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+RAG+Applications;LocalShop+AI+Builder" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 
 🏆 **Department Rank 1 (5th Semester)**
 
-💻 Passionate about building scalable full-stack web applications using the MERN Stack.
+💻 Passionate about building scalable web apps, AI-powered products, and strong backend systems.
 
-🤖 Interested in AI applications, Retrieval-Augmented Generation (RAG), Backend Engineering, AI-powered product experiences, and System Design.
+🤖 Currently focused on building intelligent, product-driven solutions like **LocalShop AI** — a next-gen local shopping assistant with AI-enhanced discovery and conversation.
 
 📈 Solved **950+ DSA Problems**
 - LeetCode **550+**
@@ -34,8 +34,8 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 - System Design
 - Advanced Backend Development
 - AI Engineering
+- LLM Product Building
 - Cloud Deployment
-- LLM Product Development
 
 📫 Reach me at
 
@@ -107,16 +107,19 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 
 **Next.js • FastAPI • TypeScript • PostgreSQL • AI Search**
 
-✨ Features
+### Highlights
 
 - AI-powered local shopping assistant
-- Smart product discovery and recommendations
-- Local marketplace search with contextual AI responses
-- RAG-based conversational experience
-- Seller and user-friendly dashboard
-- Scalable backend with modern APIs
+- Smart product discovery and recommendation engine
+- Context-aware AI-based search and conversational UX
+- Local marketplace experience optimized for discovery
+- Scalable backend architecture for real-world usage
+- Modern full-stack product flow
 
-🔗 **Project:** LocalShop AI (in progress / portfolio concept)
+### Project Status
+
+- Built as a portfolio-grade AI product concept
+- Focused on practical local commerce and intelligent search
 
 ---
 
@@ -124,7 +127,7 @@ Full Stack Developer • MERN Stack • AI Enthusiast • Competitive Programmer
 
 **MERN Stack • JWT • Recharts**
 
-✨ Features
+### Features
 
 - Drag-and-drop Kanban board
 - JWT Authentication
@@ -175,6 +178,15 @@ https://github.com/abdulHannan22/MultiPDF_QA
 🔗 GitHub
 
 https://github.com/abdulHannan22/Smart-Stay
+
+---
+
+# 🧠 Current Focus
+
+- Building AI-first user experiences
+- Combining LLMs with real product workflows
+- Improving system design and scalable architecture
+- Shipping practical, real-world full-stack ideas
 
 ---
 
